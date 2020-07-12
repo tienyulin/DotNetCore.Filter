@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace DotNetCore.Filter.Web
+namespace DotNetCore.Filter.WebAPI
 {
     public class Program
     {
