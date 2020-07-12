@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCore.Filter.Web", "DotNetCore.Filter.Web\DotNetCore.Filter.Web.csproj", "{80667243-C6F9-4F87-94DF-4DDF3AE2F314}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet.Core.Filter.Common", "DotNet.Core.Filter.Common\DotNet.Core.Filter.Common.csproj", "{16688F2E-F059-452A-9736-E33340B0479C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{80667243-C6F9-4F87-94DF-4DDF3AE2F314}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80667243-C6F9-4F87-94DF-4DDF3AE2F314}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80667243-C6F9-4F87-94DF-4DDF3AE2F314}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16688F2E-F059-452A-9736-E33340B0479C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16688F2E-F059-452A-9736-E33340B0479C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16688F2E-F059-452A-9736-E33340B0479C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16688F2E-F059-452A-9736-E33340B0479C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
