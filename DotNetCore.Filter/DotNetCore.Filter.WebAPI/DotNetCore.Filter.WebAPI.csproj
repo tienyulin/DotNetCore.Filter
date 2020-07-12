@@ -16,5 +16,13 @@
       <Folder Include="Controllers" />
     </ItemGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Swashbuckle.AspNetCore" Version="5.5.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\DotNet.Core.Filter.Common\DotNet.Core.Filter.Common.csproj" />
+    </ItemGroup>
+
 
 </Project>
